@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole Sakini 
 - 👀 I’m interested in dance,music and learning new things 
-- 🌱 I’m currently learning front end wen development at ALX 
+- 🌱 I’m currently learning front end web development at ALX 
   
   
 
